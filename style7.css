@@ -96,3 +96,12 @@ background-color: blueviolet;
    font-size:x-small;
 
 }
+.child8{
+    background-color:rgb(195, 155, 233,50%);
+    width: 100%;
+    height: 100%;
+}
+span{
+    color: blueviolet;
+}
+
